@@ -1,29 +1,29 @@
 {
-    "checksum": "cb81797becbaa3464b7e96d8065ec336",
-    "wallpaper": "/home/bae/.config/hypr/wallpaper/berserk/655978.jpg",
+    "checksum": "b5d18c4ce358da71fb4250d0febb0725",
+    "wallpaper": "/home/bae/.config/hypr/wallpaper/unixporn-disc/a_cartoon_of_a_woman_sitting_on_a_table_with_an_umbrella.png",
     "alpha": "100",
 
     "special": {
-        "background": "#080505",
-        "foreground": "#c1c0c0",
-        "cursor": "#c1c0c0"
+        "background": "#141210",
+        "foreground": "#c4c3c3",
+        "cursor": "#c4c3c3"
     },
     "colors": {
-        "color0": "#080505",
-        "color1": "#724B4B",
-        "color2": "#9D2929",
-        "color3": "#996464",
-        "color4": "#946B6B",
-        "color5": "#AD7F80",
-        "color6": "#B48C8C",
-        "color7": "#c1c0c0",
-        "color8": "#665353",
-        "color9": "#724B4B",
-        "color10": "#9D2929",
-        "color11": "#996464",
-        "color12": "#946B6B",
-        "color13": "#AD7F80",
-        "color14": "#B48C8C",
-        "color15": "#c1c0c0"
+        "color0": "#141210",
+        "color1": "#807B85",
+        "color2": "#75B68D",
+        "color3": "#ADA09F",
+        "color4": "#D4BEA0",
+        "color5": "#86D69B",
+        "color6": "#B3D58F",
+        "color7": "#c4c3c3",
+        "color8": "#6e615a",
+        "color9": "#807B85",
+        "color10": "#75B68D",
+        "color11": "#ADA09F",
+        "color12": "#D4BEA0",
+        "color13": "#86D69B",
+        "color14": "#B3D58F",
+        "color15": "#c4c3c3"
     }
 }
