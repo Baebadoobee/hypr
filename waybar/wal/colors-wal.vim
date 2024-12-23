@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/bae/.config/hypr/wallpaper/unixporn-disc/M2A6OJS.png"
+let background = "#0f1011"
+let foreground = "#c3c3c3"
+let cursor     = "#c3c3c3"
+
+" Colors
+let color0  = "#0f1011"
+let color1  = "#A38974"
+let color2  = "#7E7F81"
+let color3  = "#838383"
+let color4  = "#B0A68F"
+let color5  = "#DAC2A1"
+let color6  = "#D8C8A6"
+let color7  = "#c3c3c3"
+let color8  = "#59596d"
+let color9  = "#A38974"
+let color10 = "#7E7F81"
+let color11 = "#838383"
+let color12 = "#B0A68F"
+let color13 = "#DAC2A1"
+let color14 = "#D8C8A6"
+let color15 = "#c3c3c3"

@@ -1,0 +1,21 @@
+set $wallpaper /home/bae/.config/hypr/wallpaper/unixporn-disc/M2A6OJS.png
+
+set $background #0f1011
+set $foreground #c3c3c3
+
+set $color0 #0f1011
+set $color1 #A38974
+set $color2 #7E7F81
+set $color3 #838383
+set $color4 #B0A68F
+set $color5 #DAC2A1
+set $color6 #D8C8A6
+set $color7 #c3c3c3
+set $color8 #59596d
+set $color9 #A38974
+set $color10 #7E7F81
+set $color11 #838383
+set $color12 #B0A68F
+set $color13 #DAC2A1
+set $color14 #D8C8A6
+set $color15 #c3c3c3
